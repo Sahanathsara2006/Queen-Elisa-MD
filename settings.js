@@ -32,26 +32,34 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94716025918'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94716025918'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94716025918'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Sahan Sathsara' // Your name ඔබේ නම 
+global.botnma = 'Sahan Sathsara 👻' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = 'Sahan Sathsara' //ownernama,ownername
+global.packname = 'Sahan Sathsara Sticker' // Sticker package name 
+global.author = 'Sahan Sathsara' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =`Hello i am alive now
+global.alivelogo = `https://i.ibb.co/yyNSdNJ/istockphoto-1146650294-640x640.jpg`
+global.alive =`👋 𝙷𝙸.. 𝙸 𝙰𝙼 𝙾𝙽𝙻𝙸𝙽𝙴 𝙽𝙾𝚆
+
+𝘐 𝘢𝘮 𝘨𝘭𝘢𝘥 𝘵𝘩𝘢𝘵 𝘺𝘰𝘶 𝘢𝘳𝘦 𝘢𝘷𝘢𝘪𝘭𝘪𝘯𝘨 𝘮𝘺 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴 👾♥️
+
+𝐇𝐀𝐕𝐄 𝐀 𝐍𝐈𝐂𝐄 𝐃𝐀𝐘 🌎🍃✨
+Active since {uptime}
+
+User:{sender}
+││╴╴╴╴╴╴╴╴╴╴╴╴❬☠❭╴╴╴╴╴╴╴╴╴╴╴╴││
 
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
+🌀 Thanks Fro using 24×7 public bot
 ✾ Some bugs fixing
 😼♥️
 `
@@ -60,7 +68,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝙶𝙴𝙽𝙴𝚁𝙰𝚈𝙴𝙳 𝙱𝚈 𝚂𝙰𝙷𝙰𝙽 𝚂𝙰𝚃𝙷𝚂𝙰𝚁𝙰`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
