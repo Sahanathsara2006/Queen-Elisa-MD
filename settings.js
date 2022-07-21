@@ -36,9 +36,9 @@ global.owner = ['94716025918'] // Owner number , (අයිතිකරුගේ
 global.pemilik = ['94716025918'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94716025918'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Sahan Sathsara' // Your name ඔබේ නම 
-global.botnma = 'Sahan Sathsara 👻' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.botnma = '24×7 PUBLIC USER BOT' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = 'Sahan Sathsara' //ownernama,ownername
-global.packname = 'Sahan Sathsara Sticker' // Sticker package name 
+global.packname = 'Pack-01' // Sticker package name 
 global.author = 'Sahan Sathsara' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
@@ -50,9 +50,7 @@ global.alive =`👋 𝙷𝙸.. 𝙸 𝙰𝙼 𝙾𝙽𝙻𝙸𝙽𝙴 𝙽𝙾�
 𝘐 𝘢𝘮 𝘨𝘭𝘢𝘥 𝘵𝘩𝘢𝘵 𝘺𝘰𝘶 𝘢𝘳𝘦 𝘢𝘷𝘢𝘪𝘭𝘪𝘯𝘨 𝘮𝘺 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴 👾♥️
 
 𝐇𝐀𝐕𝐄 𝐀 𝐍𝐈𝐂𝐄 𝐃𝐀𝐘 🌎🍃✨
-Active since {uptime}
 
-User:{sender}
 ││╴╴╴╴╴╴╴╴╴╴╴╴❬☠❭╴╴╴╴╴╴╴╴╴╴╴╴││
 
 Download song type .yt 
@@ -93,8 +91,8 @@ global.limitawal = {
         potionawal: 1
      }    
 
-global.thumb = fs.readFileSync('./image/Elisa.jpg')
-global.imgalive = fs.readFileSync('./image/Elisa.jpg')
+global.thumb = fs.readFileSync('https://i.ibb.co/yyNSdNJ/istockphoto-1146650294-640x640.jpg')
+global.imgalive = fs.readFileSync('https://i.ibb.co/yyNSdNJ/istockphoto-1146650294-640x640.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
